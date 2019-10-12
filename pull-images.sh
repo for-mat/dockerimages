@@ -9,4 +9,9 @@ docker pull $imagepath
 docker tag $imagepath registry.cn-hangzhou.aliyuncs.com/binlog/shang:$imagename
 docker push registry.cn-hangzhou.aliyuncs.com/binlog/shang:$imagename
 
+# push到dockerhub
+#docker tag $imagepath willdockerhub/$imagename
+#docker push willdockerhub/$imagename
+done
+
 
