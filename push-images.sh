@@ -2,7 +2,7 @@
 
 for imagepath in $(cat ./imagepath.txt)
 do
-imagename=$(echo $imagepath | awk -F '/' '{print $NF}')
+imagename=$(echo $imagepath | awk -F '/' '{print $NF}' | tr : -)
 docker pull $imagepath
 
 # push到阿里云仓库
