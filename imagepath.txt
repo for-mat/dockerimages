@@ -1,0 +1,1 @@
+kubesphere/ks-docs:advanced-2.0.2
