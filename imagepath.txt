@@ -1,1 +1,1 @@
-threathunterx/nebula:latest
+mariadb
