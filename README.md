@@ -12,3 +12,13 @@ git push
 只pull镜像名   :  改为  -
 docker pull registry.cn-shanghai.aliyuncs.com/binlog/shang:nebula-v1.2.3
 
+拉取后改标签
+docker tag registry.cn-shanghai.aliyuncs.com/binlog/shang:nebula-latest threathunterx/nebula:latest
+
+删除原镜像名
+docker rmi registry.cn-shanghai.aliyuncs.com/binlog/shang:nebula-latest
+
+
+
+
+
