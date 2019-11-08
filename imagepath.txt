@@ -1,1 +1,1 @@
-threathunterx/nebula_sniffer
+threathunterx/nebula_sniffer:latest
