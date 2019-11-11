@@ -1,1 +1,1 @@
-threathunterx/nebula_sniffer:latest
+quay.io/calico/ctl:v3.1.7
