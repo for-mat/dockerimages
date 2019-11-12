@@ -1,1 +1,1 @@
-quay.io/calico/ctl:v3.1.7
+kubespheredev/ks-installer:advanced-2.0.2
