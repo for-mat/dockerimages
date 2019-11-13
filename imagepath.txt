@@ -1,1 +1,3 @@
-kubespheredev/ks-installer:advanced-2.0.2
+redis
+aerospike
+mariadb
