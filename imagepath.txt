@@ -1,1 +1,1 @@
-quay.io/k8scsi/csi-provisioner:v1.4.0
+gcr.io/spark-operator/spark-operator:v1beta2-1.0.1-2.4.4
