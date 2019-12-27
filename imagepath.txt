@@ -1,1 +1,1 @@
-cloudera/quickstart
+kubesphere/ks-account:v2.1.0
