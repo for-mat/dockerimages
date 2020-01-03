@@ -1,1 +1,1 @@
-kubesphere/ks-account:v2.1.0
+kubesphere/ks-installer:v2.1.0
