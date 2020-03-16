@@ -1,3 +1,1 @@
-zabbix/zabbix-server-mysql:alpine-4.0.5
-zabbix/zabbix-web-nginx-mysql:alpine-4.0.5
-zabbix/zabbix-agent:alpine-3.4.1
+f5networks/k8s-bigip-ctlr
