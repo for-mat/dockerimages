@@ -1,1 +1,1 @@
-f5networks/k8s-bigip-ctlr
+nginx:1.7
