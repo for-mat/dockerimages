@@ -1,5 +1,1 @@
-osixia/openldap:1.3.0
-kubesphere/ks-apigateway:v2.1.1
-kubesphere/ks-apiserver:v2.1.1
-kubesphere/ks-console:v2.1.1
-kubesphere/ks-controller-manager:v2.1.1
+kubesphere/prometheus:v2.5.0
