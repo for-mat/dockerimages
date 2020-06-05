@@ -1,1 +1,1 @@
-kubesphere/prometheus:v2.5.0
+kubesphere/ks-account:v2.1.1
