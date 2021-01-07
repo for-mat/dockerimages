@@ -1,1 +1,1 @@
-flink:0.9.0
+apachedoris/doris-dev:build-env-1.3
