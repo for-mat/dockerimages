@@ -15,7 +15,7 @@ docker pull registry.cn-shanghai.aliyuncs.com/binlog/shang:tiller-v2.14.3
 拉取后改标签
 docker tag registry.cn-shanghai.aliyuncs.com/binlog/shang:tiller-v2.14.3 gcr.io/kubernetes-helm/tiller:v2.14.3
 
-删除原镜像名
+删除原镜像名 
 docker rmi registry.cn-shanghai.aliyuncs.com/binlog/shang:tiller-v2.14.3
 
 
