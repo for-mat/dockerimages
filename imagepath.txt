@@ -1,2 +1,2 @@
 quay.io/cephcsi/cephcsi:v3.4.0
-quay.io/ceph/ceph:v16.2.6
+ghcr.io/flowerfine/scaleph/scaleph-ui-react:v1.0.3
