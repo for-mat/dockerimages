@@ -7,7 +7,7 @@ pull docker images
 git add imagepath.txt
 git commit -m 'xxx'
 git push
-
+ 
 然后就可以通过阿里云镜像库拉取镜像了
 只pull镜像名   :  改为  -
 docker pull registry.cn-shanghai.aliyuncs.com/binlog/shang:tiller-v2.14.3
