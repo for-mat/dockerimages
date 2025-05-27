@@ -1,2 +1,1 @@
-quay.io/cephcsi/cephcsi:v3.4.0
-ghcr.io/flowerfine/scaleph/scaleph-ui-react:v1.0.3
+registry.k8s.io/e2e-test-images/agnhost:2.40
